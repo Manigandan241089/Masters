@@ -9,7 +9,7 @@ class Test {
 	}
 
 	public function setName(){
-		name = "Maniganda";
+		name = "Manigand";
 	}
 
 }
