@@ -41,6 +41,7 @@
  * @version   SVN: $Id: Math.php 4429 2009-01-04 15:39:45Z mapi $
  * @link      http://www.phpundercontrol.org/
  */
+public tes;
 function add($v1 , $v2)
     {
         return ($v1 + $v2);
